@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="app_title">ToDo!</string>
+    <string name="app_refresh">Refresh</string>
+    <string name="header_text">Lets get it done!!!</string>
+
+    <string name="drawer_notification">Push Notification</string>
+    <string name="drawer_analyse">Analysis</string>
+    <string name="drawer_dark_mode">Dark Mode</string>
+    <string name="drawer_sort">Done task move down</string>
+
+    <string name="app_reload">Reload</string>
+    <string name="err_msg">Something went wrong</string>
+    <string name="err_msg2">Give it another try</string>
+    <string name="app_down">Move Down</string>
+    <string name="app_up">Move Up</string>
+    <string name="app_delete">Delete</string>
+    <dimen name="activityPadding">16dp</dimen>
+    <dimen name="placeholderImage">30dp</dimen>
+    <dimen name="placeholderTextHeight">8dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+</resources>

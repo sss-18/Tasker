@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/drawer_dark_mode"
+        android:id="@+id/darkMode"/>
+    <item android:title="@string/drawer_analyse"
+        android:id="@+id/drawerAnalyse"/>
+    <item android:title="@string/drawer_notification"
+        android:id="@+id/drawerNotification"/>
+    <item android:title="@string/drawer_sort"
+        android:id="@+id/drawerSort"/>
+
+</menu>
